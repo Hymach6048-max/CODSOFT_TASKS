@@ -85,11 +85,35 @@ A console-based ATM application developed using Java. It allows users to perform
 - Input validation
 - Object-oriented programming
 
-#### Project Structure
+## ✅ Internship Task Status
 
-```text
-Task3
-│
-├── ATM.java
-├── BankAccount.java
-└── ATMInterface.java
+- [x] Task 1 - Number Game
+- [x] Task 2 - Student Grade Calculator
+- [x] Task 3 - ATM Interface
+
+## ✅ Task3 Files
+
+ATM.java
+BankAccount.java
+ATMInterface.java
+
+## Learning Outcomes
+
+Through these projects, I improved my understanding of:
+
+- Java Programming
+- Object-Oriented Programming
+- Loops and Conditional Statements
+- Classes and Objects
+- Methods
+- User Input Handling
+- Input Validation
+- Basic Application Development
+- Git and GitHub
+
+## Internship
+
+**CodSoft - Java Development Internship**
+
+All three required tasks have been successfully completed.
+
